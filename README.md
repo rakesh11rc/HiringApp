@@ -8,7 +8,7 @@ API docs: http://localhost:8080/v3/api-docs/
 
 Swagger UI: http://localhost:8080/swagger-ui/index.html#/
 
-### Sample Employee Object
+### Sample Employee request object (without employeeId, contractId & employeeState)
 ```
 {
 "firstName": "Rakesh",
