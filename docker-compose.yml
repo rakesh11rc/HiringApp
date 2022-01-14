@@ -1,0 +1,7 @@
+version: "2"
+
+services:
+  hiring-app:
+    build: .
+    ports:
+      - "8080:8080"
